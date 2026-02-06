@@ -4,7 +4,7 @@
     "homepage": "https://github.com/RockinChaos/Shiru",
     "license": "GPL-3.0-only",
     "url": "https://github.com/RockinChaos/Shiru/releases/download/v6.1.12/win-Shiru-v6.1.12-portable.exe",
-    "hash": "eda5ed3796590b5338101452292023023e98118086054f152332115167417409",
+    "hash": "63cc3272eeaa9de13f4290de77c104394085671ed0917cc9f5373fe96c16033b",
     "bin": "win-Shiru-v6.1.12-portable.exe",
     "shortcuts": [
         [
