@@ -1,14 +1,14 @@
 {
-    "version": "6.1.12",
+    "version": "6.5.0",
     "description": "Shiru - Manga Reader/Downloader",
     "homepage": "https://github.com/RockinChaos/Shiru",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/RockinChaos/Shiru/releases/download/v6.1.12/win-Shiru-v6.1.12-portable.exe",
-    "hash": "63cc3272eeaa9de13f4290de77c104394085671ed0917cc9f5373fe96c16033b",
-    "bin": "win-Shiru-v6.1.12-portable.exe",
+    "url": "https://github.com/RockinChaos/Shiru/releases/download/v6.5.0/win-Shiru-v6.5.0-portable.exe",
+    "hash": "9b096a6eaefea4429b166c1f6d5b4265fd92f8a6b20f18c18897f9bcf35ede4a",
+    "bin": "win-Shiru-v6.5.0-portable.exe",
     "shortcuts": [
         [
-            "win-Shiru-v6.1.12-portable.exe",
+            "win-Shiru-v6.5.0-portable.exe",
             "Shiru"
         ]
     ],
