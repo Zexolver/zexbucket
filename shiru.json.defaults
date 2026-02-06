@@ -1,0 +1,10 @@
+{
+    "version":  "v6.1.12",
+    "license":  "GPL-3.0-only",
+    "extract_dir":  "",
+    "url":  "https://github.com/RockinChaos/Shiru/releases/download/v6.1.12/win-Shiru-v6.1.12-portable.exe",
+    "depends":  "",
+    "homepage":  "",
+    "hash":  "eda5ed3796590b5338101452292023023e98118086054f152332115167417409",
+    "bin":  "win-shiru-v6.1.12-portable.exe"
+}
