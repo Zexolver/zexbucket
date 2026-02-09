@@ -1,0 +1,11 @@
+{
+    "version": "v0.8.1",
+    "description": "Friday Night Funkin' - A rhythmic music game.",
+    "homepage": "https://ninja-muffin24.itch.io/funkin",
+    "license": "Apache-2.0",
+    "url": "https://github.com/FunkinCrew/Funkin/releases/download/v0.8.1/funkin-windows-64bit.zip",
+    "hash": "8482b61138406797b5e47854f3a763830722160912d76587399f925291771146",
+    "bin": "funkin.exe",
+    "shortcuts": [
+        [ "funkin.exe", "Friday Night Funkin" ]
+    ]
