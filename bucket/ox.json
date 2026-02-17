@@ -4,7 +4,7 @@
     "homepage": "https://github.com/curlpipe/ox",
     "license": "GPL-2.0-only",
     "url": "https://github.com/curlpipe/ox/releases/download/0.7.7/ox.exe",
-    "hash": "8482b6830500418c3971e49129994c5025a14d4850559e7428f522851532f1f5",
+    "hash": "c95b0f2f7f49bc8b0c6bb01928cf7eda5b6492813b6f7ee51b9ddda3abd3b01f",
     "bin": "ox.exe",
     "checkver": "github",
     "autoupdate": {
